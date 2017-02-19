@@ -1,0 +1,10 @@
+{
+    "name": "symphony/symphony",
+    "type": "library",
+    "description": "TODO: fill in description",
+    "homepage": "https://github.com/foo0y/symphony",
+    "license": "MIT",
+    "require": {
+        "symfony/symfony": "*"
+    }
+}
